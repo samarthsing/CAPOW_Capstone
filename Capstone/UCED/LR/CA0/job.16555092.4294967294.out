@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "CA_simulation.py", line 22, in <module>
+    import CA_wrapper
+  File "/sfs/lustre/bahamut/scratch/ss9vz/CAPOW_PY36/UCED/LR/CA0/CA_wrapper.py", line 155
+    if int(index>0 and index<25 or day==days-1 and int(index>0 and index<49):
+                                                                            ^
+SyntaxError: invalid syntax
